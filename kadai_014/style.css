@@ -1,0 +1,29 @@
+body {
+      font-family: "Arial","Meiryo"sans-serif;
+}
+
+html {
+      font-size: 20px;
+      text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    font-family: "josefi sans"sans-serif;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.pink {
+       color: rgb(255, 192, 203);
+}
+
+.skybule {
+         color: skyblue;
+}
+
+#parenet div {
+              font-weight: bold;
+}
+
